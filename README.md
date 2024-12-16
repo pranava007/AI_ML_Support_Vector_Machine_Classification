@@ -1,4 +1,4 @@
-# Support Vector Machine Classification
+# Support Vector Machine Classification Report
 
 
      precision    recall  f1-score   support
